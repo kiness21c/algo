@@ -3,3 +3,5 @@
 *.sln
 *.vcxproj
 *.filters
+*.tlog
+*.idb
